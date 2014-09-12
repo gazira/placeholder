@@ -1,0 +1,10 @@
+{
+    "name": "gazira-placeholder",
+    "version": "0.0.1",
+    "main": "index.js",
+    "dependencies": {
+        "component/jquery": "1.0.0",
+        "gazira/position": "master",
+        "gazira/inputor": "master"
+    }
+}
